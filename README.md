@@ -27,8 +27,10 @@ I bring years of experience in operations management and team coordination, now 
  
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **ft_irc** | C++ | RFC-compliant multi-client IRC server — sockets, concurrent connections, real-time messaging |
-| **Inception** | Docker · Linux | Multi-container infrastructure with NGINX, WordPress and MariaDB |
+<!-- | **ft_irc** | C++ | RFC-compliant multi-client IRC server — sockets, concurrent connections, real-time messaging |
+| **Inception** | Docker · Linux | Multi-container infrastructure with NGINX, WordPress and MariaDB | -->
+| **Bricky** | Python · Pygame | Breakout clone — collision detection, scoring and real-time game loop |
+| **2048** | C · TUI | Terminal-based recreation of the 2048 puzzle game — game logic, input handling and TUI rendering |
 | **Minishell** | C · Unix | Functional Unix shell with pipes, redirects and env variables — pair programming |
 | **cub3D** | C · Graphics | 3D raycasting engine with textures and real-time input |
 | **Philosophers** | C | Concurrency with mutexes and threads |
@@ -42,6 +44,7 @@ I bring years of experience in operations management and team coordination, now 
   <img src="https://github-readme-stats.vercel.app/api?username=k0ff33Blu3&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A18&title_color=4A8A5D&icon_color=4A8A5D&text_color=F5F0E8" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0ff33Blu3&layout=compact&theme=dark&hide_border=true&bg_color=1A1A18&title_color=4A8A5D&text_color=F5F0E8" height="160"/>
 </p>
+
 ---
  
 ## 🌱 Currently
