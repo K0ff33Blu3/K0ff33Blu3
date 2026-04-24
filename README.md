@@ -19,7 +19,7 @@ I bring years of experience in operations management and team coordination, now 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) -->
 
 ---
  
@@ -27,16 +27,15 @@ I bring years of experience in operations management and team coordination, now 
  
 | Project | Stack | Description |
 |---------|-------|-------------|
-<!-- | **ft_irc** | C++ | RFC-compliant multi-client IRC server — sockets, concurrent connections, real-time messaging |
-| **Inception** | Docker · Linux | Multi-container infrastructure with NGINX, WordPress and MariaDB | -->
 | **Bricky** | Python · Pygame | Breakout clone — collision detection, scoring and real-time game loop |
 | **2048** | C · TUI | Terminal-based recreation of the 2048 puzzle game — game logic, input handling and TUI rendering |
 | **Minishell** | C · Unix | Functional Unix shell with pipes, redirects and env variables — pair programming |
 | **cub3D** | C · Graphics | 3D raycasting engine with textures and real-time input |
 | **Philosophers** | C | Concurrency with mutexes and threads |
 | **Born2beroot** | Linux | Hardened Debian VM: SSH, firewall, user policies |
- 
 ---
+<!-- | **ft_irc** | C++ | RFC-compliant multi-client IRC server — sockets, concurrent connections, real-time messaging |
+| **Inception** | Docker · Linux | Multi-container infrastructure with NGINX, WordPress and MariaDB | -->
  
 ## 📊 GitHub Stats
  
